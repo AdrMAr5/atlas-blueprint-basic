@@ -46,7 +46,7 @@ export default function Page() {
         <EntryHeader image={mainBanner} />
         <div className="container">
           <section className="hero text-center">
-            <Heading className={styles.heading} level="h1">
+            <Heading className={styles.heading} 
               Welcome to your Blueprintfddsdsfsfawrefasdfarfgarga
             </Heading>
             <p className={styles.description}>
